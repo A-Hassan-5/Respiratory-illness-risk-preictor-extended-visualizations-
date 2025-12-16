@@ -95,3 +95,9 @@ joblib
 
 plotly
 
+matplotlib
+
+seaborn
+
+statsmodels
+
